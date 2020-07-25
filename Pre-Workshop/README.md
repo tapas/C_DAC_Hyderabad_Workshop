@@ -64,3 +64,8 @@ In case of any difficulties / problems with running the code or any doubts, feel
   3. Arghya Pal (cs15resch11001@iith.ac.in)
   4. Akilesh B (cs13b1042@iith.ac.in)
   5. Sahil Manocha (es13b1019@iith.ac.in)
+  
+  ## notebooks updated on 25/07/2020
+  
+  updated and tested for python 3.6 and scikit-learn 0.23.1
+
